@@ -58,6 +58,7 @@ Developed by: RegisterNumber:24900567
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![Screenshot 2024-12-02 193710](https://github.com/user-attachments/assets/58be3323-e346-4a31-8389-122a0fcb776e)
 
 **RESULTS**
 8:3 encoder implemented sucessfully turth table has varified
